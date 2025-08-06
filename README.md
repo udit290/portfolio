@@ -48,5 +48,3 @@ the first study of its kind in the Indian context.
 
 Used fixed effects panel regression in **STATA** to analyze the relationship 
 between municipal solid waste and per capita income.
-
-- [Blog](https://medium.com/@udit)
