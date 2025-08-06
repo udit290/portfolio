@@ -40,6 +40,5 @@ Assessed macroeconomic indicators and trends for India and Cambodia using World 
 Conducted a pioneering empirical analysis of the Environmental Kuznets Curve 
 (EKC) for municipal solid waste across 31 Indian states and union territories — 
 the first study of its kind in the Indian context.
-
 Used fixed effects panel regression in **STATA** to analyze the relationship 
 between municipal solid waste and per capita income.
