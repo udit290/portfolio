@@ -35,7 +35,7 @@ Explored literacy rate trends in India (2011–2023) using **MS Excel**, highlig
 Assessed macroeconomic indicators and trends for India and Cambodia using World Bank data, deriving policy insights with **MS Excel**.
 
 ## Research Papers
-### Analyzing the Economies of India and Cambodia
+### Empirical Analysis of the EKC Hypothesis for Municipal Solid Waste Across Indian States
 
 Conducted a pioneering empirical analysis of the Environmental Kuznets Curve 
 (EKC) for municipal solid waste across 31 Indian states and union territories — 
