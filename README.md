@@ -17,15 +17,10 @@
 Applied data modeling and semantic modeling principles to construct a star schema in **Power BI** using a fictional yet real-world relevant chocolate company dataset.
 Transformed raw data into an organized, query-efficient structure, enabling in-depth business analysis and reporting.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### COVID-19 Data Analysis And Visualization
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Evaluated global COVID-19 data using **Python**, **Pandas**, and **Matplotlib** to 
 calculate recovery and mortality rates and saw trends in cases and deaths.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Sales Report of an E-Commerce Store
 
